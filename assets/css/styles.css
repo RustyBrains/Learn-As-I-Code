@@ -1,0 +1,12 @@
+.form-label{
+    display: flex;
+    width: 10%;
+}
+
+.form-input{
+    display: flex;
+}
+
+.input-div{
+    display: flex;
+}
